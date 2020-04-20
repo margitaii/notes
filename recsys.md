@@ -2,11 +2,16 @@
 ## Deep learning RecSys
 https://towardsdatascience.com/recommendation-system-series-part-2-the-10-categories-of-deep-recommendation-systems-that-189d60287b58
 
+## Tensorflow implementation of General and Sequential RecSys
+
+ * https://github.com/margitaii/NeuRec/tree/2.0/model/general_recommender
+
 ## Sequential recommender systems
 
  * Survey: https://arxiv.org/pdf/1905.01997.pdf
  * Factorized personalized MC: https://www.ismll.uni-hildesheim.de/pub/pdfs/RendleFreudenthaler2010-FPMC.pdf
  * FOSSIL: https://cseweb.ucsd.edu/~jmcauley/pdfs/icdm16a.pdf
+     * Fossil python implementation: https://github.com/rdevooght/sequence-based-recommendations
  * HRM: http://www.bigdatalab.ac.cn/~junxu/publications/SIGIR2015_NextBasketRec.pdf
 
 ## Hierarchical attention networks
@@ -25,10 +30,16 @@ https://towardsdatascience.com/recommendation-system-series-part-2-the-10-catego
  * https://www.learndatasci.com/tutorials/reinforcement-q-learning-scratch-python-openai-gym/
  * https://www.analyticsvidhya.com/blog/2019/04/introduction-deep-q-learning-python/
 
-## Negative explicit feedback
+## Metric learning
 
- * https://arxiv.org/pdf/1812.11422.pdf
- * https://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/p91-frolov.pdf
+ * Collaborative Metric Learning (CML): http://www.cs.cornell.edu/~ylongqi/paper/HsiehYCLBE17.pdf
+ * CML with negative feedback: https://arxiv.org/pdf/1812.11422.pdf
+ * Fifty-shades: https://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/p91-frolov.pdf
+
+## Multi-relation RecSYS
+
+ * CML based: https://www.ijcai.org/Proceedings/2019/0619.pdf
+ * MC-BPR: https://dl.acm.org/doi/10.1145/2959100.2959163
 
 ## Embeddings
 
