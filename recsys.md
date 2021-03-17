@@ -6,12 +6,15 @@
  * Other collection of RecSys datasets: https://cseweb.ucsd.edu/~jmcauley/datasets.html (the Bartering datasets are particularly interesting)
 
 ## Deep learning RecSys
-https://towardsdatascience.com/recommendation-system-series-part-2-the-10-categories-of-deep-recommendation-systems-that-189d60287b58
  * 10 categories of DL recommendation systems:
-://towardsdatascience.com/recommendation-system-series-part-2-the-10-categories-of-deep-recommendation-systems-that-189d60287b58uilt a counterparty recommender system to support Treasury Fixed Income trading activities and pre-selection models for retail loan campaings.
  * Time-aware, sequential, CNN RecSys: http://downloads.hindawi.com/journals/complexity/2019/9476981.pdf
- * 
 	
+## Combining user ratings and user reviews:
+
+ * http://ieeexplore.ieee.org/document/8813018
+ * Ratings meet reviews[15]: https://dl.acm.org/doi/pdf/10.1145/2645710.2645728
+ * Hidden factors and hidden topics[16]: https://cs.stanford.edu/people/jure/pubs/reviews-recsys13.pdf
+
 ## Tensorflow implementation of General and Sequential RecSys
 
  * https://github.com/margitaii/NeuRec/tree/2.0/model/general_recommender
