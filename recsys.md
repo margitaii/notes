@@ -1,7 +1,17 @@
 # Novel methods
+
+## DataSets
+
+ * Great collection of data sources for RecSys research: https://github.com/guocheng2018/Sequential-Recommendation-Datasets
+ * Other collection of RecSys datasets: https://cseweb.ucsd.edu/~jmcauley/datasets.html (the Bartering datasets are particularly interesting)
+
 ## Deep learning RecSys
 https://towardsdatascience.com/recommendation-system-series-part-2-the-10-categories-of-deep-recommendation-systems-that-189d60287b58
-
+ * 10 categories of DL recommendation systems:
+://towardsdatascience.com/recommendation-system-series-part-2-the-10-categories-of-deep-recommendation-systems-that-189d60287b58uilt a counterparty recommender system to support Treasury Fixed Income trading activities and pre-selection models for retail loan campaings.
+ * Time-aware, sequential, CNN RecSys: http://downloads.hindawi.com/journals/complexity/2019/9476981.pdf
+ * 
+	
 ## Tensorflow implementation of General and Sequential RecSys
 
  * https://github.com/margitaii/NeuRec/tree/2.0/model/general_recommender
